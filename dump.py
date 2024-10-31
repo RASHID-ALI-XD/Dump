@@ -1,2 +1,2 @@
-from Dump import superuser
-superuser()
+from Dump import run
+run()
